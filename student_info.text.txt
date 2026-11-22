@@ -1,4 +1,2 @@
 Name: Sidra Shafi
 Roll_No: 24-SE-200
-Name: Neha Qasim
-Roll_No: 24-SE-41
